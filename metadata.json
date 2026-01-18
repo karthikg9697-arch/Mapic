@@ -1,0 +1,7 @@
+{
+  "name": "TodayRoute",
+  "description": "A premium fitness tracker that turns your daily walks, rides, and drives into beautiful shareable posters with AI-powered motivational insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
